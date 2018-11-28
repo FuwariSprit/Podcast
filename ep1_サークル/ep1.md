@@ -27,11 +27,11 @@
 - 多分最初だから多めに載せてます(ソフトの名前とかはいらないと思いますが…)
 - [WSL](https://ja.wikipedia.org/wiki/Windows_Subsystem_for_Linux)
 - [RLogin](https://ja.wikipedia.org/wiki/RLogin)
-- [VSCode](https://code.visualstudio.com/)
-- [atom](https://atom.io/)
-- [idea](https://www.jetbrains.com/idea/)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Atom](https://atom.io/)
+- [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 - [プレフィックスについて](https://qiita.com/numanomanu/items/45dd285b286a1f7280ed)
-- [unity](https://unity3d.com/jp)
+- [Unity](https://unity3d.com/jp)
 
 # パーソナリティ
 - [ふわり@Fuwari_WE](https://twitter.com/Fuwari_WE)
