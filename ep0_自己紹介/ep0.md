@@ -1,7 +1,7 @@
 # ほげほげfm
 ## 編集後記
-- 初めまして、[ほげほげ.fm](XXXX) パーソナリティYukiです
-- 第０回目のテーマは`「自己紹介」`でした
+- 初めまして、[ほげほげ.fm](https://itunes.apple.com/jp/podcast/%E3%81%BB%E3%81%92%E3%81%BB%E3%81%92-fm/id1444410120?mt=2) パーソナリティYukiです
+- 第０回目のテーマは[「自己紹介」](https://www.kappa.info-engineer.jp/2018/11/23/ep0-%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B/)でした
 - とりあえず簡単な自己紹介や最近行ったイベントや研究について話しました
 - 毎回のShowNoteは私が担当いたします
 - 冒頭第1回と話していますが相談して0回になりました
@@ -26,10 +26,12 @@
 - [おしごとam](https://www.oshigotoam.com/)
 
 # パーソナリティ
-- ふわり@XXXX
+- [ふわり@Fuwari_WE](https://twitter.com/Fuwari_WE)
     - 某大学学部3年
-- Yuki@公開判断中
+    - 編集・公開担当
+- [Yuki@djotkyuki](https://twitter.com/djotkyuki)
     - 某大学学部4年
+    - ShowNote担当
 
 ## 機材  
 - MacBookPro
