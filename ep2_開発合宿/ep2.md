@@ -16,7 +16,7 @@
 
 ## 訂正
 - 11:53 `Bracket`ではなく`Bitbucket`でした。プライベートレポジトリが使えるので使用しました
-- 14:27 `syntax highlight`ではなく`split view`or`diff view`とかのようです(サイトによって違うよう)
+- 14:27 `syntax highlight`ではなく`split view` or `diff view`とかのようです(サイトによって違うよう)
     - ちなみに`syntax highlight`はeditor等で行われる文字色が変わる機能です
     - `split view`はiPadの機能が検索上位に出てきてしまいますね…
 
