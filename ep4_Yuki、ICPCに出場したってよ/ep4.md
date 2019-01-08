@@ -1,7 +1,7 @@
 # ほげほげfm
 ## 編集後記
 - こんにちはforeachを知らないYukiです
-- 第4回目のテーマは[「Yuki、ICPC出場したってよ」]()でした
+- 第4回目のテーマは[「Yuki、ICPC出場したってよ」](https://www.kappa.info-engineer.jp/2019/01/07/ep4-yuki%E3%80%81icpc%E3%81%AB%E5%87%BA%E5%A0%B4%E3%81%97%E3%81%9F%E3%81%A3%E3%81%A6%E3%82%88/)でした
 - ICPCという競技プログラミングの大会に出場してきました
   - ICPCとは?
   - すべて英語でつらかった話
@@ -16,12 +16,8 @@
     - 私たちの活動の励みにもつながります
 - もちろんiTunesレビューもお待ちしております
 
-## 訂正
-- やっぱり就活ルールは廃止らしいです。[リンク](https://www.nikkei.com/article/DGXMZO36255980Z01C18A0000000/?n_cid=DSREA001)
-  - 21年春入社以降の学生が対象のようなのでふわりが就活ルール最後の世代ですね(進学しなければ)
-
 ## 話題に上がったもののリンク集
-- [ICPC(wiki)]()
+- [ICPC(wiki)](https://ja.wikipedia.org/wiki/ACM%E5%9B%BD%E9%9A%9B%E5%A4%A7%E5%AD%A6%E5%AF%BE%E6%8A%97%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88)
 - [ICPC(アジア地区横浜大会-2018)](https://icpc.iisf.or.jp/2018-yokohama/)
   - タイムスケジュールやルール等も見ることができます
 - [Line](https://line.me/ja/)
